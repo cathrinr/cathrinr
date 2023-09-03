@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and improving my skills in data science and machine learning.
 - 🎶 Music enthusiast turned data aficionado
 - 🚀 I'm driven by data's power to spark innovation and create positive change.
-- 📫 How to reach me: LinkedIn www.linkedin.com/in/cathrin-rahn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cathrin-rahn)
 
 <!--
 **cathrinr/cathrinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
