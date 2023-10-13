@@ -5,7 +5,6 @@
 - 🚀 I'm driven by data's power to spark innovation and create positive change.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cathrin-rahn)
 
-- 
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> 
